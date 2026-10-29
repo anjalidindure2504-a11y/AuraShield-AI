@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive implementation plan for AuraShield AI, an advanced real-time fraud detection and credential verification platform for jobs, internships, freelance offers, fake certificates, and HR candidate claim audits. Includes universal real-time input methods (text paste, live URL fetcher, multimodal document upload, and chat forward parser), a prominent hero risk gauge with direct 4-tier risk classification (Critical, High, Low, No Risk), and full HR enforcement tools.",
+  "updatedAt":  "2026-10-29T15:23:10.169992950Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

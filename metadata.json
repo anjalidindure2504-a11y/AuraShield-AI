@@ -1,0 +1,6 @@
+{
+  "name": "AuraShield AI — Real-Time Employment Fraud & Credential Verification Suite",
+  "description": "AI-powered real-time fraud detection and credential verification suite to identify scam job postings, detect fraudulent internship certificates, and assist company HRs in auditing LinkedIn claims.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
